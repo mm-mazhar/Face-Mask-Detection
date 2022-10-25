@@ -6,9 +6,9 @@ Click on the image to see full view.
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/mhEXjV5.png" width="500px" height=325px/></td>
-    <td><img src="https://i.imgur.com/k7f1osV.png" width="500px" height=325px/></td>
-    <td><img src="https://i.imgur.com/whY6qyG.png" width="500px" height=325px/></td>
+    <td><img src="https://i.imgur.com/mhEXjV5.png" width="500px" height=225px/></td>
+    <td><img src="https://i.imgur.com/k7f1osV.png" width="500px" height=225px/></td>
+    <td><img src="https://i.imgur.com/whY6qyG.png" width="500px" height=225px/></td>
    </tr>
 </table>
 
@@ -16,8 +16,8 @@ Click on the image to see full view.
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/eS5tBWe.png" width="500px" height=325px/></td>
-    <td><img src="https://i.imgur.com/egbdNGb.png" width="500px" height=325px/></td>
-    <td><img src="https://i.imgur.com/xPzwgto.png" width="500px" height=325px/></td>
+    <td><img src="https://i.imgur.com/eS5tBWe.png" width="500px" height=225px/></td>
+    <td><img src="https://i.imgur.com/egbdNGb.png" width="500px" height=225px/></td>
+    <td><img src="https://i.imgur.com/xPzwgto.png" width="500px" height=225px/></td>
    </tr>
 </table>
