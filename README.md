@@ -4,7 +4,6 @@
 
 <table style="width:100%">
   <tr>
-    <td><img src="https://i.imgur.com/mhEXjV5.png" width="500px" height=325px/></td>
     <td><img src="https://i.imgur.com/k7f1osV.png" width="500px" height=325px/></td>
     <td><img src="https://i.imgur.com/whY6qyG.png" width="500px" height=325px/></td>
    </tr>
