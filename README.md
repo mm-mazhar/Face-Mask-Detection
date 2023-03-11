@@ -19,11 +19,8 @@ Click on the image to see full view.
     <td><img src="https://i.imgur.com/eS5tBWe.png" width="500px" height=225px/></td>
     <td><img src="https://i.imgur.com/egbdNGb.png" width="500px" height=225px/></td>
     <td><img src="https://i.imgur.com/xPzwgto.png" width="500px" height=225px/></td>
+     <td><img src="https://i.imgur.com/NylAZRG.png" width="500px" height=225px/></td>
    </tr>
 </table>
 
-<table style="width:100%">
-  <tr>
-    <td><img src="https://i.imgur.com/NylAZRG.png" width="500px" height=225px/></td>
-    </tr>
-</table>
+
